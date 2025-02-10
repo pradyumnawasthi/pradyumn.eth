@@ -1,1 +1,1 @@
-# pradz.eth
+# Decentralized website on your ENS
